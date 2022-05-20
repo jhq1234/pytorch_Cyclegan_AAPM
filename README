@@ -1,0 +1,9 @@
+데이터셋 구성.
+
+Original data
+Range : -0.0029 : 0.0465
+
+제 각기 다름.
+
+Dataread에서 min max normalize로 변환해서 
+range가 [-1,1]로 변환되서 나왔음.
